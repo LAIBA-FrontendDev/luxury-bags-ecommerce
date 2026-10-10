@@ -4,7 +4,7 @@ A production-grade, highly optimized e-commerce frontend system engineered to de
 
 ## 🔗 Project Access
 - **Live Deployment View:** https://23-c-mi6t.vercel.app/
-- **GitHub Repository Source:** 
+- **GitHub Repository Source:** https://github.com/LAIBA-FrontendDev/luxury-bags-ecommerce
 
 ## 🚀 Key Technologies & Stack
 - **Framework Architecture:** Next.js (App Router)
