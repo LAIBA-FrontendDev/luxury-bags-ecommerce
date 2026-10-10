@@ -2,6 +2,10 @@
 
 A production-grade, highly optimized e-commerce frontend system engineered to deliver a seamless premium shopping experience. Built utilizing server-side power and strict modern typescript components.
 
+## 🔗 Project Access
+- **Live Deployment View:** https://23-c-mi6t.vercel.app/
+- **GitHub Repository Source:** 
+
 ## 🚀 Key Technologies & Stack
 - **Framework Architecture:** Next.js (App Router)
 - **Type Intelligence:** TypeScript (Strict Type Checking)
